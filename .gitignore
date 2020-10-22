@@ -18,6 +18,8 @@
 .settings
 .springBeans
 .sts4-cache
+.settings/
+target/
 
 # Package Files #
 *.jar
